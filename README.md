@@ -12,11 +12,10 @@
 
 5) If the second element in boolList is true, log the sum of the first and last elements in numList. Otherwise multiply the second element in numList by itself and log the result.
 
-6) Iterate through boolList, if the value is true console log the equivelent index in numList.
+6) Iterate through boolList, if the value is true console log the equivalent index in numList.
 
-7) Combine all three arrays into one array, and log the newly created are in reverse. 
-   
+7) Combine all three arrays into one array, and log the newly created are in reverse.
+
 ***
-   
-Your code should consist of 7 code blocks with comments about each block with the corresponding question number.
 
+Your code should consist of 7 code blocks with comments about each block with the corresponding question number.
